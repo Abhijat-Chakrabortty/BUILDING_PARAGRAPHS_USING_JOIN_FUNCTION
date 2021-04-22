@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#para_1_input_boxes{
+    float: left;
+    margin: 50px;
+}
+#para_2_input_boxes{
+    float: right;
+    margin: 50px;
+}
